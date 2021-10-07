@@ -1,4 +1,4 @@
-# PancakeSwap #Squad Bot - BETA - use at your own risk
+# PancakeSwap #Squad Bot - BETA - 
 
 Read nft listings and buy if it's inside the price range
 
